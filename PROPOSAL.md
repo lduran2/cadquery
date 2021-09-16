@@ -1,8 +1,8 @@
-Leomar Durán
-Fall 2021
-CIS 3296, Section 003
-Project proposal
-2021-09-16
+<div>Leomar Durán</div>
+<div>Fall 2021</div>
+<div>CIS 3296, Section 003</div>
+<div>Project proposal</div>
+<div>2021-09-16</div>
 
 # Title
 
